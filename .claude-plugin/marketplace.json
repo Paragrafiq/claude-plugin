@@ -1,0 +1,15 @@
+{
+  "name": "paragrafiq-plugins",
+  "description": "Paragrafiq plugins for Claude: Czech law research.",
+  "owner": {
+    "name": "Azonal Systems s.r.o.",
+    "url": "https://www.paragrafiq.cz"
+  },
+  "plugins": [
+    {
+      "name": "paragrafiq",
+      "source": "./",
+      "description": "Czech law research: skill plus the Paragrafiq connector for verifying Czech statutes and case law."
+    }
+  ]
+}

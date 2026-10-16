@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "paragrafiq": {
+      "type": "http",
+      "url": "https://www.paragrafiq.cz/api/mcp/v2"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "paragrafiq",
+  "displayName": "Paragrafiq",
+  "version": "0.1.0",
+  "description": "Czech law research for Claude: a skill that teaches Claude to verify Czech statutes and case law with the Paragrafiq connector.",
+  "author": {
+    "name": "Azonal Systems s.r.o.",
+    "url": "https://www.paragrafiq.cz"
+  },
+  "homepage": "https://www.paragrafiq.cz/mcp",
+  "repository": "https://github.com/Paragrafiq/paragrafiq-claude-plugin",
+  "license": "MIT",
+  "keywords": ["czech-law", "legal-research", "mcp", "paragrafiq"]
+}
