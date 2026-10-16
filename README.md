@@ -13,7 +13,7 @@
 
 **Jak plugin přidat (Claude Code)**
 ```
-/plugin marketplace add Paragrafiq/paragrafiq-claude-plugin
+/plugin marketplace add Paragrafiq/claude-plugin
 /plugin install paragrafiq@paragrafiq-plugins
 ```
 
@@ -32,7 +32,7 @@
 
 **Install (Claude Code)**
 ```
-/plugin marketplace add Paragrafiq/paragrafiq-claude-plugin
+/plugin marketplace add Paragrafiq/claude-plugin
 /plugin install paragrafiq@paragrafiq-plugins
 ```
 

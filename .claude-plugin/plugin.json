@@ -8,7 +8,7 @@
     "url": "https://www.paragrafiq.cz"
   },
   "homepage": "https://www.paragrafiq.cz/mcp",
-  "repository": "https://github.com/Paragrafiq/paragrafiq-claude-plugin",
+  "repository": "https://github.com/Paragrafiq/claude-plugin",
   "license": "MIT",
   "keywords": ["czech-law", "legal-research", "mcp", "paragrafiq"]
 }
