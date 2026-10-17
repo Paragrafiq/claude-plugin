@@ -9,6 +9,8 @@
   },
   "homepage": "https://www.paragrafiq.cz/mcp",
   "repository": "https://github.com/Paragrafiq/claude-plugin",
+  "privacyPolicyUrl": "https://www.paragrafiq.cz/soukromi",
+  "icon": ".claude-plugin/icon.png",
   "license": "MIT",
   "keywords": ["czech-law", "legal-research", "mcp", "paragrafiq"]
 }
