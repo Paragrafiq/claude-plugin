@@ -1,7 +1,7 @@
 {
   "name": "paragrafiq",
   "displayName": "Paragrafiq",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Czech law research for Claude: a skill that teaches Claude to verify Czech statutes and case law with the Paragrafiq connector.",
   "author": {
     "name": "Azonal Systems s.r.o.",
